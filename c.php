@@ -48,11 +48,11 @@ catch(PDOException $e)
   	<head>
     <meta charset="utf-8">
     <title></title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <!--  <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <link href="./css/bootstrap.cssm" rel="stylesheet">
     <link href="./css/bootstrap-responsive.css" rel="stylesheet">
-    <link href="./css/docs.css" rel="stylesheet">
+    <link href="./css/docs.css" rel="stylesheet"> -->
 <style>
 
 </style>
@@ -64,8 +64,8 @@ catch(PDOException $e)
 
 	    <br>
 	    <div class="row">
-  <img src="./tt.jpg" align="center;" width="1000px;" height="150px;">  
-<img src="./tt4.jpeg" align="center;" width="300px;" height="150px;">
+  <img src="./tt.jpg" align="center;"  width="800px;" height="150px;"> 
+<img src="./tt4.jpg" align="center;" width="300px;" height="150px;">
 	    	<center><table><tr><td></td><td><h1 class="text-center">Indian Institute of Technology Guwahati</h1></td></tr></table></center>
 
   
@@ -147,60 +147,7 @@ if($check) {
 		}
 	}
 ?>
-<!-- <tr>
-<td>1.</td>
-<td ><strong>$row_det['course_no']</strong></td>
-<td>Formal Languages and Automata Theory</td>
-<td>Credit</td>
-<td>1 March</td>
-<td>3 May</td>
-<td>9-12</td>
-<td>L-3</td>
-<td>Closed Book</td>
-</tr>
 
-<tr>
-<td  >2.</td>
-<td ><strong>CS 204</strong></td>
-<td >Algorithms</td>
-</tr>
-
-<tr>
-<td  >3.</td>
-<td ><strong>CS 222</strong></td>
-<td >Computer Organization & Architecture</td>
-</tr>
-
-<tr>
-<td  >4.</td>
-<td ><strong>CS 223</strong></td>
-<td >Hardware Laboratory</td>
-</tr>
-
-<tr>
-<td >5.</td>
-<td ><strong>CS 242</strong></td>
-<td >Software Engineering</td>
-</tr>
-
-<tr>
-<td >6.</td>
-<td ><strong>CS 244</strong></td>
-<td >Systems Programming Lab.</td>
-</tr>
-
-<tr>
-<td >7.</td>
-<td ><strong>CS 243</strong></td>
-<td >Software Engineering Lab</td>
-</tr>
-
-<tr>
-<td >8.</td>
-<td ><strong>HS 237</strong></td>
-<td>Introduction to Archeology</td>
-</tr>
--->
 </table>
 </div> 
 

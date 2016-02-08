@@ -19,8 +19,8 @@
 
 	    <br>
 	    <div class="row">
-  <img src="./tt.jpg" align="center;" width="1000px;" height="150px;">  
-<img src="./tt4.jpeg" align="center;" width="300px;" height="150px;">
+  <img src="./tt.jpg" align="center;" width="800px;" height="150px;">  
+<img src="./tt4.jpg" align="center;" width="300px;" height="150px;">
 	    	<center><table><tr><td></td><td><h1 class="text-center">Indian Institute of Technology Guwahati</h1></td></tr></table></center>
 
   
